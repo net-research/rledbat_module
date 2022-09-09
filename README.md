@@ -12,6 +12,8 @@ rledbat_receive.c: Code implementing hook parsing incoming packets
 
 kernel/xt_TWIN.c: Code implementing hook parsing and modifying outgoing packets
 
+Tested with Ubuntu Linux 3.13.0-24-generic
+
 ## credits
 
 rledbat_receive.c is derived from Module for printing TCP packet data', Sam Protsenko, https://stackoverflow.com/questions/29553990/print-tcp-packet-data
